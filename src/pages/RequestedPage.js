@@ -10,7 +10,7 @@ const RequestedScreen = () => {
       <h2>Tarjetas Solicitadas</h2>
       
         <div>
-          <p>Name: Juan Carlos</p>
+          <p>Nombre: Juan Carlos</p>
           <p>Email: juan@hotmail.com </p>
           <p>Celular: 65523845</p>
           
