@@ -7,12 +7,12 @@ const RequestedScreen = () => {
 
   return (
     <div>
-      <h2>Creditos Aprobados</h2>
+      <h2>Tarjetas Solicitadas</h2>
       
         <div>
           <p>Name: Juan Carlos</p>
-          <p>Email: </p>
-          <p>Phone Number:</p>
+          <p>Email: juan@hotmail.com </p>
+          <p>Celular: 65523845</p>
           
         <button onClick={() => setEstado="Aprobado"}>
           Aprobar

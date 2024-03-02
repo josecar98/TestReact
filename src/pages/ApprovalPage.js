@@ -7,9 +7,9 @@ const ApprovalScreencreen = () => {
 
   return (
     <div>
-      <h2>Tarjetas Solicitadas</h2>
+      <h2>Tarjetas Aprobadas</h2>
       
-      <h2>Tarjetas Solicitadas</h2>
+      <h2>Tarjetas Aprobadas</h2>
 
 <table>
   <tr>
@@ -38,7 +38,7 @@ const ApprovalScreencreen = () => {
     
     <div class="inner">
     
-      <h3>Tarjetas Aprobadas</h3>
+      <h3>Tarjetas Solicitadas</h3>
 
         
   
@@ -50,7 +50,7 @@ const ApprovalScreencreen = () => {
     
     </div>
     
-    <a href="Aprobado" class="small-box-footer">
+    <a href="Solicitado" class="small-box-footer">
 
       Más info <i class="fa fa-arrow-circle-right"></i>
 
