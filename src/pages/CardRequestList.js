@@ -2,7 +2,7 @@
 import React, { useContext } from 'react';
 import { Link } from 'react-router-dom';
 import { useState, useEffect, useRef } from "react";
-import { GetSolicitud } from '../components/SolicTarjeta';
+
 
 //import { CardRequestContext } from '../context/CardRequestContext';
 
@@ -76,7 +76,7 @@ const CardRequestList = () => {
         placeholder="Teléfono" />
         <button type="submit" onClick={()=>
           {
-            GetSolicitud(nombre, ci, email, tel);
+            
 
           }}
             onSubmit={onSearchSubmit}>
